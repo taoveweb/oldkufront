@@ -1,4 +1,6 @@
 # React Slingshot!
+http://blog.csdn.net/xx1710/article/details/51725012
+http://idea.imsxm.com/
 
 [![Build status: Linux](https://img.shields.io/travis/coryhouse/react-slingshot.svg?style=flat-square)](https://travis-ci.org/coryhouse/react-slingshot)
 [![Build status: Windows](https://ci.appveyor.com/api/projects/status/ky0npqkot20ieiak?svg=true)](https://ci.appveyor.com/project/coryhouse/react-slingshot/branch/master)
